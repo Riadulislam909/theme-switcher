@@ -1,0 +1,1 @@
+1. make theme switcher {darkmode and lightmoode} using context api concept.
